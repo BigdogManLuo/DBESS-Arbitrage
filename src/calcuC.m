@@ -1,0 +1,1 @@
+%计算老化成本function C=calcuC(d,P,E,Kp,N,C_ap)    C=C_ap*((d+(P/E))^Kp-d^Kp)/(2*N);end
