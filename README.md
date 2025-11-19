@@ -67,12 +67,6 @@ For each DBESS, the operator chooses a charging/discharging power trajectory $P_
 - Minus charging/discharging losses;
 - Minus **battery aging cost** per cycle.
 
-Intuitively, the objective is:
-
-- Charge when prices are low;
-- Discharge when prices are high;
-- While avoiding excessive degradation of the battery.
-
 ### Constraints
 
 The operation of each DBESS is subject to:
